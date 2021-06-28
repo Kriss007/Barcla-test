@@ -1,0 +1,2 @@
+This file was already added from Github panel during merge but trying to add again which will give conflict.
+
